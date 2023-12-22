@@ -1,0 +1,4 @@
+CRITICAL:root:Critical
+ERROR:root:error
+WARNING:root:warning
+INFO:root:info
